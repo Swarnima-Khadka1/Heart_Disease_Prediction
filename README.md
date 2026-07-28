@@ -17,5 +17,5 @@ After comparing their performance, the best-performing model was selected and de
 Clone this repository:
 
 ```bash
-git clone <https://github.com/Swarnima-Khadka1/Heart_Disease_Prediction.git>
+git clone https://github.com/Swarnima-Khadka1/Heart_Disease_Prediction.git
 cd Heart-Disease-Prediction
